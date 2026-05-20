@@ -21,8 +21,8 @@ Built at **BeaverHacks** (May 2026).
 ## Team
 
 - [@minkim26](https://github.com/minkim26) — Maintainer
-- [@nairadi](https://github.com/nairadi) — Contributor
-- [@shankary](https://github.com/shankary) — Contributor
+- [@nairadi0](https://github.com/nairadi0) — Contributor
+- [@Shankary23](https://github.com/Shankary23) — Contributor
 
 ---
 
