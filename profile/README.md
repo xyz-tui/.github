@@ -9,7 +9,7 @@ XYZ is a terminal-based universal dependency manager that aggregates pip, npm, a
 
 ## Quick Links
 
-- **[xyz](https://github.com/xyz-tui/xyz)** — Main repository (TUI app, 4 ⭐)
+- **[xyz](https://github.com/xyz-tui/xyz)** — Main repository (TUI app)
 - **[Contributing Guide](https://github.com/xyz-tui/xyz/blob/main/CONTRIBUTING.md)** — Dev setup & workflow
 
 ## What We Build
